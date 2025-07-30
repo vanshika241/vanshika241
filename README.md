@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1>Hii , I am Vanshika Chaudhary</h1>
+const me = {
+ name : "Vanshika Chaudhary",
+ 
+}
